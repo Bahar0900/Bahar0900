@@ -43,6 +43,7 @@
 [![LightOJ](https://img.shields.io/badge/LightOJ-8e44ad?style=for-the-badge)](https://lightoj.com/user/sagorchowdhury)
 [![SPOJ](https://img.shields.io/badge/SPOJ-0C3A61?style=for-the-badge)](https://www.spoj.com/users/sagorchowdhury)
 [![StopStalk](https://img.shields.io/badge/StopStalk-5dade2?style=for-the-badge)](https://www.stopstalk.com/user/profile/sagorchowdhury)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sagor-chowdhury-313764319/)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bahar0900)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagormdsagorchowdhury@gmail.com)
