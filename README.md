@@ -1,7 +1,7 @@
 # Hi there! I am MD Sagor Chowdhury 👋
 
 🌱 I'm currently studying Computer Science and Engineering at Chittagong University of Engineering and Technology.  
-🍃 I'm currently learning about beckend engineering. Interested in C#.NET   
+🍃 I'm currently learning about beckend engineering and Machine Learning. Interested in C#.NET   
 💬 Ask me about Anything!  
 📫 How to reach me: [sagormdsagorchowhdury@gmail.com](mailto:sagormdsagorchowhdury@gmail.com)
 
@@ -43,7 +43,7 @@
 [![LightOJ](https://img.shields.io/badge/LightOJ-8e44ad?style=for-the-badge)](https://lightoj.com/user/sagorchowdhury)
 [![SPOJ](https://img.shields.io/badge/SPOJ-0C3A61?style=for-the-badge)](https://www.spoj.com/users/sagorchowdhury)
 [![StopStalk](https://img.shields.io/badge/StopStalk-5dade2?style=for-the-badge)](https://www.stopstalk.com/user/profile/sagorchowdhury)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iambahar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sagor-chowdhury-313764319/)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bahar0900)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagormdsagorchowdhury@gmail.com)
