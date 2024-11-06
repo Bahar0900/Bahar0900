@@ -38,8 +38,10 @@
 ## 🔗 Links
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-f35b04?style=for-the-badge)](https://codeforces.com/profile/b_AHA_r)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1E90FF?style=for-the-badge)](https://atcoder.jp/users/sagorchowhdury)
 [![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge)](https://leetcode.com/u/sagorchowdhury/)
 [![LightOJ](https://img.shields.io/badge/LightOJ-8e44ad?style=for-the-badge)](https://lightoj.com/user/sagorchowdhury)
+[![SPOJ](https://img.shields.io/badge/SPOJ-0C3A61?style=for-the-badge)](https://www.spoj.com/users/sagorchowdhury)
 [![StopStalk](https://img.shields.io/badge/StopStalk-5dade2?style=for-the-badge)](https://www.stopstalk.com/user/profile/sagorchowdhury)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sagor-chowdhury-313764319/)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bahar0900)
