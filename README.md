@@ -38,7 +38,7 @@
 ## 🔗 Links
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-f35b04?style=for-the-badge)](https://codeforces.com/profile/b_AHA_r)
-[![AtCoder](https://img.shields.io/badge/AtCoder-1E90FF?style=for-the-badge)](https://atcoder.jp/users/sagorchowhdury)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1E90FF?style=for-the-badge)](https://atcoder.jp/users/sagorchowdhury)
 [![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge)](https://leetcode.com/u/sagorchowdhury/)
 [![LightOJ](https://img.shields.io/badge/LightOJ-8e44ad?style=for-the-badge)](https://lightoj.com/user/sagorchowdhury)
 [![SPOJ](https://img.shields.io/badge/SPOJ-0C3A61?style=for-the-badge)](https://www.spoj.com/users/sagorchowdhury)
